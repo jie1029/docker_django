@@ -1,2 +1,3 @@
-/venv/*
+venv/
 note
+db_config.py
